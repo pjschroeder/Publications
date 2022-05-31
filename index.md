@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+Rice VJ, **Schroeder PJ.** In-person and virtual world mindfulness training: trust, satisfaction, and learning. Cyberpsychol Behav Soc Netw 2021, 24: 526-535. 
 
-You can use the [editor on GitHub](https://github.com/pjschroeder/Publications/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Phipps H, Mondello S, Wilson A **et al.** Characteristics and impact of U.S. Military blast-related mild traumatic brain injury: a systematic review. Front Neurol 2020, 11: e559318
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Rice V, **Schroeder PJ,** Cassenti DN, et al. The effect of traumatic brain injury (TBI) on cognitive performance in a sample of active duty U.S. military service members. Mil Med, 185: 184-189.
 
-### Markdown
+Rice VJ, Liu B, Allison SC, **et al.** Mindfulness training offered in-person and in a virtual world – weekly self-reports of stress, energy, pain, and sleepiness among U.S. Military active duty and veteran personnel. Mindfulness 2019, 10: 1815-1827. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Duncan J, **Schroeder PJ,** Williams J. Medical encounters for sleep disorders among mixed-age male and female active duty U.S. Air Force between 2016 and 2017. Sleep 2019, 42: A142-A143. 
 
-```markdown
-Syntax highlighted code block
+Rice VJ, **Schroeder PJ.** Self-reported sleep, anxiety, and cognitive performance in a sample of U.S. Military active duty and veterans. Mil Med 2019, 184, 488-497. 
 
-# Header 1
-## Header 2
-### Header 3
+Rice V, **Schroeder PJ.** Resilience and mindfulness in active duty and veteran U.S. military service members. Resilience Week 2019; 142-146.
 
-- Bulleted
-- List
+Rice VJ, Tree R, Boykin G, **et al**. Trust in automation among volunteers participating in a virtual world telehealth mindfulness meditation program. In D.N. Cassenti (Ed.) Advances in Human Factors and Ergonomics in Healthcare and Medical Devices (p.151-160). Springer International. 2019.
 
-1. Numbered
-2. List
+Kohsin BY, Andrus JR, Phipps H,**et al.** High Reliability and Continuous Process Improvement in the U.S. Air Force Medical Service. 2019. AFMS-TR-2019-0859.
 
-**Bold** and _Italic_ and `Code` text
+Shelton M, Sencindiver K, Fea M, **et al.**Basis and Implementation of Trusted Care. 2019. AFMS-TR-2019-08145.
 
-[Link](url) and ![Image](src)
-```
+Rice VJB, **Schroeder PJ**, Boykin GL. Customizing avatars and the impact of one’s in-person life and communication. Proc Hum Factors Ergon Soc Annu Meet 2018, 62: 1489-1493. 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Rice VJ, Liu B, **Schroeder PJ**. Impact of in-person and virtual world mindfulness training on symptoms of posttraumatic stress disorder and attention deficit hyperactivity disorder. Mil Med 2018, 183, 413-420. 
 
-### Jekyll Themes
+Rice VJ, **Schroeder PJ**. The relationship between mindful awareness and cognition among U.S. Military service members and veterans. Proc Hum Factors Ergon Soc Annu Meet 2017, 61, 843-847. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pjschroeder/Publications/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Rice VJ, **Schroeder PJ**. Evidence of a symptom cluster: the impact of mindfulness meditation on self-reported stress, fatigue, pain, and sleep among U.S. Military service members and veterans. In V. Duffy & N. Lightner (Eds.) Advances in Human Factors and Ergonomics in Healthcare and Medical Devices (p. 22-45). Springer International. 2017. 
 
-### Support or Contact
+Warren R, **Schroeder PJ**. Topological entropy measure of artificial grammar complexity for use in designing experiments on human performance in intelligence, surveillance, and reconnaissance (ISR) tasks. 2015. AFRL-RH-WP-TR-2015-0037 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Schroeder PJ**. The effects of age on processing and storage in working memory span tasks and reading comprehension. Exp Aging Res 2014, 40: 308-331. 
+
+**Schroeder PJ**, Copeland DE, Bies-Hernandez NJ. The influence of story context on a working memory span task. Q J Exp Psychol 2012, 65: 488-500. 
+
+**Schroeder PJ**. The value of research experience. Undergraduate Update 2008; 1,2. 
+
+Pyne JM, Kuc EJ, **Schroeder PJ** et al. Relationship between perceived stigma and depression severity. J Nerv Ment Dis 2004, 192: 278-283.
