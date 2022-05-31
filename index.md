@@ -14,9 +14,9 @@ Rice V, **Schroeder PJ.** Resilience and mindfulness in active duty and veteran 
 
 Rice VJ, Tree R, Boykin G, **et al**. Trust in automation among volunteers participating in a virtual world telehealth mindfulness meditation program. In D.N. Cassenti (Ed.) Advances in Human Factors and Ergonomics in Healthcare and Medical Devices (p.151-160). Springer International. 2019.
 
-Kohsin BY, Andrus JR, Phipps H,**et al.** High Reliability and Continuous Process Improvement in the U.S. Air Force Medical Service. 2019. AFMS-TR-2019-0859.
+Kohsin BY, Andrus JR, Phipps H **et al.** High Reliability and Continuous Process Improvement in the U.S. Air Force Medical Service. 2019. AFMS-TR-2019-0859.
 
-Shelton M, Sencindiver K, Fea M, **et al.**Basis and Implementation of Trusted Care. 2019. AFMS-TR-2019-08145.
+Shelton M, Sencindiver K, Fea M **et al.**Basis and Implementation of Trusted Care. 2019. AFMS-TR-2019-08145.
 
 Rice VJB, **Schroeder PJ**, Boykin GL. Customizing avatars and the impact of one’s in-person life and communication. Proc Hum Factors Ergon Soc Annu Meet 2018, 62: 1489-1493. 
 
