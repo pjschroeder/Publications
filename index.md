@@ -1,8 +1,9 @@
 ***Navigation*** Code.     <a href="https://pjschroeder.github.io/" target="_blank">**Home**.</a>    <a href="https://pjschroeder.github.io/Presentations/" target="_blank">**Presentations**.</a>    <a href="https://photos.google.com/share/AF1QipMlbI0EBOjB_aAF47elFRw6auyFfGQED7eiJW50X7RrzaCXsA_0qe4GkIQfop1mFg?key=eVNndHNfLWRMT3VRamx6YjRPRWxWZTNjRGtXWWRn" target="_blank">**Photography**.</a>   <a href="https://www.linkedin.com/in/paul-j-schroeder-020b1316/" target="_blank">**LinkedIn**.</a>     <a href="schroed9@gmail.com" target="_blank">**Contact Me**.</a>   
-Rice VJ, **Schroeder PJ.** In-person and virtual world mindfulness training: trust, satisfaction, and learning. Cyberpsychol Behav Soc Netw 2021, 24: 526-535.  <a href="https://github.com/pjschroeder/Publications/blob/main/Rice_2021_In%20Person%20and%20Virtual%20World%20Mindfulness%20Training%20Trust%20Satisfaction%20and%20Learning.pdf" target="\_blank">" PDF</a>
 
 
 <Updated June 7, 2022>
+
+Rice VJ, **Schroeder PJ.** In-person and virtual world mindfulness training: trust, satisfaction, and learning. Cyberpsychol Behav Soc Netw 2021, 24: 526-535.  <a href="https://github.com/pjschroeder/Publications/blob/main/Rice_2021_In%20Person%20and%20Virtual%20World%20Mindfulness%20Training%20Trust%20Satisfaction%20and%20Learning.pdf" target="\_blank">" PDF</a>
 
 Phipps H, Mondello S, Wilson A **et al.** Characteristics and impact of U.S. Military blast-related mild traumatic brain injury: a systematic review. Front Neurol 2020, 11: e559318
 
