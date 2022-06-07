@@ -1,4 +1,4 @@
-Rice VJ, **Schroeder PJ.** In-person and virtual world mindfulness training: trust, satisfaction, and learning. Cyberpsychol Behav Soc Netw 2021, 24: 526-535.  <a href="https://github.com/pjschroeder/Publications/blob/main/Rice_2021_In%20Person%20and%20Virtual%20World%20Mindfulness%20Training%20Trust%20Satisfaction%20and%20Learning.pdf" target="_blank">{{ open.pdf }}</a> 
+Rice VJ, **Schroeder PJ.** In-person and virtual world mindfulness training: trust, satisfaction, and learning. Cyberpsychol Behav Soc Netw 2021, 24: 526-535.  <a href="https://github.com/pjschroeder/Publications/blob/main/Rice_2021_In%20Person%20and%20Virtual%20World%20Mindfulness%20Training%20Trust%20Satisfaction%20and%20Learning.pdf" target="\_blank"> PDF </a> 
 
 Phipps H, Mondello S, Wilson A **et al.** Characteristics and impact of U.S. Military blast-related mild traumatic brain injury: a systematic review. Front Neurol 2020, 11: e559318
 
